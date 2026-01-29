@@ -11,7 +11,7 @@ This repository contains the official implementation of the method proposed in o
 
 ## 📊 Framework Diagram
 
-The figure below illustrates the overall architecture / pipeline of our proposed method:
+The figure below illustrates the overall  pipeline of GUARF:
 
 ![Method Overview](fiture/GUARF.png)
 
