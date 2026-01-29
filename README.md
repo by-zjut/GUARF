@@ -1,6 +1,4 @@
-# 📄 [GUARF: Graph Large Language Models Unified
-Adversarial Robustness Framework for
-Multi-dimensional Evaluation]
+# 📄 [GUARF: Graph Large Language Models Unified Adversarial Robustness Framework for Multi-dimensional Evaluation]
 ---
 
 ## 📊 Framework Diagram
