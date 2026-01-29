@@ -11,11 +11,10 @@ This repository contains the official implementation of the method proposed in o
 
 ## 📊 Framework Diagram
 
-The figure below illustrates the overall  pipeline of GUARF:
+💡 The figure below illustrates the overall  pipeline of GUARF:
 
 ![Method Overview](fiture/GUARF.png)
 
-> 💡 The diagram is stored at `assets/framework.png`. Please place your figure in the `assets/` folder and update the filename if needed.
 
 ---
 
