@@ -1,12 +1,6 @@
-# 📄 [Your Paper Title]
-
-> **GUARF: Graph Large Language Models Unified
+# 📄 [GUARF: Graph Large Language Models Unified
 Adversarial Robustness Framework for
-Multi-dimensional Evaluation**
-
-This repository contains the official implementation of the method proposed in our paper:  
-**"[Your Paper Title]"**.
-
+Multi-dimensional Evaluation]
 ---
 
 ## 📊 Framework Diagram
