@@ -13,7 +13,7 @@ This repository contains the official implementation of the method proposed in o
 
 The figure below illustrates the overall architecture / pipeline of our proposed method:
 
-![Method Overview](assets/framework.png)
+![Method Overview](fiture/GUARF.pdf)
 
 > 💡 The diagram is stored at `assets/framework.png`. Please place your figure in the `assets/` folder and update the filename if needed.
 
